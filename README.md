@@ -9,3 +9,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 /app/ui 包含应用程序的ui组件
 /public 静态资产，图片等
 /scripts 填充数据库
+
+
+
+如何提取数据
+1. restful api层获取数据
+2. 数据库查询 SQL ORM Prisma
